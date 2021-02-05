@@ -17,5 +17,12 @@ Since this is a node based project it doesnt require to build this.
 Also i have intentialnally added node module folder so that there is no dependency for versions and packages.
 Unzip the project and simply fire "npm run test" command from root directory using command prompt.
 
+# Salient Feature Implemented
+Page object model architecture using Javascript.
+Every action has capability to take screenshot without any direct call.
+Intutuive HTML Report as an output.
+Detailed error capturing inside HTML report to point out excat issue with test cases/scenario.
+
+
 # Reach me
  Please feel free to contact me on Email: vikkydubey@gmail.com 
