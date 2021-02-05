@@ -13,13 +13,9 @@ Installation and Setup
 8.  ALso for every test case action there are screenshot captured and grouped together based on test cases folder. This can be found at ..\RedditAutomation\Report\Screenshot
 
 # Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-https://nodejs.org/en/ 
+Since this is a node based project it doesnt require to build this.
+Also i have intentialnally added node module folder so that there is no dependency for versions and packages.
+Unzip the project and simply fire "npm run test" command from root directory using command prompt.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+# Reach me
+ Please feel free to contact me on Email: vikkydubey@gmail.com 
