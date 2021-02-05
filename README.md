@@ -1,12 +1,16 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+This is a Reddit web automation framework created using Google Puppteer. The labguage used in this is Javascript and its a node based project.
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Installation and Setup
+1.	Make sure node js is installed on the client where you intend to run this test suite. If node is not installed then please download and run the setup from https://nodejs.org/en/download/ 
+2.	Software dependencies : Node js (internally npm.)
+3.	Once Installation of node is done then please download the projext zip from https://drive.google.com/file/d/1nx6TtUjyo-rAV-xfuoMTqFPFJwP9dg3D/view?usp=sharing  and unzip on a local directory
+4.	Go to Root of the project and open command prompt at root viz: \RedditAutomation\RedditAutomation
+5.  On Command Prompt window type "npm run test" (without quotes) to run the test cases
+6.  There are 5 test cases - List all subscribed subreddits, Search and Open Private Subreddit, Create Post, Create post and Comment on it and upvote and downvote a post.
+7.  At the end of execution there will be one HTML Report generated at \RedditAutomation\html-report\report.html
+8.  ALso for every test case action there are screenshot captured and grouped together based on test cases folder. This can be found at ..\RedditAutomation\Report\Screenshot
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
