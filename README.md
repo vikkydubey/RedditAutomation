@@ -6,7 +6,7 @@ Installation and Setup
 1.	Make sure node js is installed on the client where you intend to run this test suite. If node is not installed then please download and run the setup from https://nodejs.org/en/download/ 
 2.	Software dependencies : Node js (internally npm.)
 3.	Once Installation of node is done then please download the projext zip from https://drive.google.com/file/d/1nx6TtUjyo-rAV-xfuoMTqFPFJwP9dg3D/view?usp=sharing  and unzip on a local directory
-4.	Go to Root of the project and open command prompt at root viz: \RedditAutomation\RedditAutomation
+4.	Go to Root of the project and open command prompt at root viz: \RedditAutomation
 5.  On Command Prompt window type "npm run test" (without quotes) to run the test cases
 6.  There are 5 test cases - List all subscribed subreddits, Search and Open Private Subreddit, Create Post, Create post and Comment on it and upvote and downvote a post.
 7.  At the end of execution there will be one HTML Report generated at \RedditAutomation\html-report\report.html
