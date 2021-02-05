@@ -1,5 +1,5 @@
 # Introduction 
-This is a Reddit web automation framework created using Google Puppteer. The labguage used in this is Javascript and its a node based project.
+This is a Reddit web automation framework created using Google Puppteer. The language used in this is Javascript and its a node based project.
 
 # Getting Started
 Installation and Setup
